@@ -1,0 +1,22 @@
+.Gerador{
+    margin-bottom: 2rem;
+
+}
+
+.GeradorI{
+    display: inline;
+    margin: 5px;
+}
+
+.Lista{
+    margin-top: 35px;
+    width: 30px;
+    flex-wrap: wrap;
+}
+
+.Gerador li{
+    display: inline;
+    padding-top: 15px;
+    margin-left: 10px;
+    font-weight: bold;
+}
